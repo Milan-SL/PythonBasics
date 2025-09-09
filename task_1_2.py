@@ -1,0 +1,1 @@
+print("Hier kommt Aufgabe 2 hin")
