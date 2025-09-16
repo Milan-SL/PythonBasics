@@ -1,0 +1,5 @@
+numb1 = input("Write first number:")
+numb2 = input("Write second number:")
+if (numb1 < numb2): print(f"Die Zahl {numb1} ist kleiner als {numb2}")
+if (numb1 > numb2): print(f"Die Zahl {numb1} ist grösser als {numb2}")
+if (numb1 == numb2): print(f"Die Zahl {numb1} ist gleichgross wie {numb2}")
