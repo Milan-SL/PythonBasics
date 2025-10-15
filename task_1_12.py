@@ -1,0 +1,5 @@
+hour = int(input("enter hour:"))
+min = int(input("enter minute:"))
+sec = int(input("enter second:"))
+dechour = hour + (min/60) + (sec/3600)
+print(f"this is the decimal hour: {round(dechour, 2)}")
